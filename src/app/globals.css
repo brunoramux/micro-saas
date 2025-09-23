@@ -3,6 +3,7 @@
 @theme {
   --disable-default-colors: true;
 
+  --color-background-primary: #050505;
   --color-background-secondary: #0F0F10;
   --color-background-tertiary: #19191A;
 

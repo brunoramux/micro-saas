@@ -1,7 +1,10 @@
+import Hero from "./components/Hero";
 
 
 export default function Home() {
   return (
-    <div className="bg-accent-green">Hello World</div>
+    <div className="max-w-7xl mx-auto">
+      <Hero />
+    </div>
   );
 }
